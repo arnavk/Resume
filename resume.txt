@@ -1,0 +1,100 @@
+ ARNAV KUMAR
+=============
+
+Address: 3C - 02 - 04, 52, Nanyang Walk, Singapore - 639928
+E-Mail: arnav1@e.ntu.edu.sg | arnavkumar24@hotmail.com 
+Phone: +65 8499 8569
+GitHub [1] | LinkedIn [2] | Site [3]
+
+ Education
+===========
+
+University: Nanyang Technological University, Singapore
+(Aug 2010 – Jun 2014)
+ •  Bachelor of Engineering (Honours) in Computer Science with a GPA of 4.75/5.
+ •  Minor in Business, Specialization in Intelligent Systems (expected).
+ •  Dean’s List - Academic Year 2012-13
+ •  Awarded President’s Research Scholarship - offered to the top 5% of the cohort - Academic Year 2011-12 
+ •  Awarded full scholarship for university education.
+
+High School: St. James’ School, Kolkata	
+(Graduated in May 2010)
+ •  Indian School Certification (ISC) - 91%. (A - Level Equivalent)
+ •  Indian School Certificate Examination Result (ICSE) - 94%. (O - Level Equivalent)
+ •  98% in Computer Science in both ICSE and ISC.
+
+ Work Experience
+=================
+
+ IBM Corporation - Software Engineering (iOS) Intern
+ (May 2013 - Aug 2013)
+ •  Developed core components for a mobile port of IBM Security Access Manager for Enterprise Single Sign - On (ISAM-ESSOm)[4] for providing single sign - on capabilities on the iOS platform.
+ •  Built  the  fully-featured,  UIWebView  -  based  embedded  browser  which  provides Web single sign - on capabilities within the App.
+
+ IBM Corporation - Software Engineering Intern
+ (Jun 2012 - Dec 2012)
+ •  Development – Prototyped new mobile (iOS and Android) solutions aimed at enhancing user  experience  and  security  of  sensitive  user  information.  Explored  and  implemented methods of automated form - filling techniques.
+ •  Quality Assurance – Configuration and troubleshooting server side components of a new solution for Privileged Identity Management. Automated the user-creation process during load-testing, reducing time required at this stage by 66%.
+
+ Project Work
+==============
+
+ Final Year Project (Aug 2013 - Present)
+ •  Developing a proof-of-concept game demonstrating interaction with real world objects virtually.
+ •  Interfacing a Kinect, an iPhone, and a projector with a central server to process motion.
+
+Data Mining (Aug 2013 - Oct 2013)
+ •  Led a team of 6 to develop an application (with a Django backend) to generate a timeline for the flow of Twitter hashtags across the globe and track local trends. [5]
+
+ Natural Language Processing (Aug 2013 - Oct 2013)
+ •  Developed an application (with a Java + Flask backend) to summarize and analyse the sentiment of Twitter users about a subjects after extracting descriptive phrases from related tweets. [6]
+
+ Software Engineering (II) (Jan 2013 - May 2013)
+ •  Lead developer  for dBauggle, an iOS word-game for  children with  special needs, built using the cocos2d framework. [7]
+
+ Software Engineering (I) (Feb 2012 - May 2012)
+ •  Lead developer for P.A.W.S., a pet-centric social network (with a Django backend) for pet agencies and prospective pet owners to interact, start the process of adoption and provide location based services. 
+
+ Pet Projects
+ •  Pebble Music Tweeter - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch. [8]
+ •  Keepr - iOS app for users to keep track of uncommon objects and trigger memory flashes to recall their last placement. (Work in progress)
+
+ Technical Skills
+==================
+ •  Java, Objective-C,  Python (& Django framework), Javascript, HTML and others.
+ •  Represented NTU in International Collegiate Programming Competition (ACM-ICPC) Regionals held in Kuala Lumpur (2011).
+
+ Relevant Courses
+==================
+ •  Object  Oriented  Programming  &  Data  Structures
+ •  Software  Engineering
+ •  Database Systems
+ •  Operating  Systems
+ •  Algorithms
+ •  Advanced  Algorithms
+ •  Artificial  Intelligence
+ •  Natural Language Processing
+ •  Data Mining.
+
+ Extra - Curricular Activities
+===============================
+ •  President - NTU Open Source Society - Headed the management committee of the special interest club that promotes the hacker culture.  (AY2012-13)
+ •  IT (Media) Officer - Computer Engineering Club (Student Council of the School) - Steered the  annual  branding  initiative,  produced  and  redesigned  the  School’s  publication  and organised the school’s first Hackathon. (AY2012-13)
+
+ Interests
+===========
+ •  Reading, Writing, Sports (football, rugby).
+ •  Played Rugby competitively for 8 years.
+ •  Member of the NTU Rugby Squad between Sept 2010 and Aug 2011.
+
+
+ Links
+=======
+[1] GitHub: https://github.com/radzinzki
+[2] LinkedIn: http://sg.linkedin.com/in/arnavkumar24/
+[3] Site: http://arnavkumar.com
+[4] ISAM-ESSOm: https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8
+[5] Twitter Visualizer (Data-Mining): https://github.com/radzinzki/Data-Mining
+[6] Twitter Summarizer (Natural Language Processing): https://github.com/radzinzki/NLP
+[7] dBauggle: https://itunes.apple.com/us/app/dbauggle!/id625981185?mt=8
+[8] Pebble Music-Tweeter: https://github.com/radzinzki/Pebble-MusicTweeter
