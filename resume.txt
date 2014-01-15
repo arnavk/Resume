@@ -43,7 +43,7 @@ High School: St. James’ School, Kolkata
  •  Developing a proof-of-concept game demonstrating interaction with real world objects virtually.
  •  Interfacing a Kinect, an iPhone, and a projector with a central server to process motion.
 
-Data Mining (Aug 2013 - Oct 2013)
+ Data Mining (Aug 2013 - Oct 2013)
  •  Led a team of 6 to develop an application (with a Django backend) to generate a timeline for the flow of Twitter hashtags across the globe and track local trends. [5]
 
  Natural Language Processing (Aug 2013 - Oct 2013)
