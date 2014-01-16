@@ -50,10 +50,10 @@ High School: St. James’ School, Kolkata
  •  Developed an application (with a Java + Flask backend) to summarize and analyse the sentiment of Twitter users about a subjects after extracting descriptive phrases from related tweets. [6]
 
  Software Engineering (II) (Jan 2013 - May 2013)
- •  Lead developer  for dBauggle, an iOS word-game for  children with  special needs, built using the cocos2d framework. [7]
+ •  Led a team of 6 to build dBauggle, an iOS word-game for children with special needs, built using the cocos2d framework. [7]
 
  Software Engineering (I) (Feb 2012 - May 2012)
- •  Lead developer for P.A.W.S., a pet-centric social network (with a Django backend) for pet agencies and prospective pet owners to interact, start the process of adoption and provide location based services. 
+ •  Led a team of 5 to build P.A.W.S., a pet-centric social network (with a Django backend) for pet agencies and prospective pet owners to interact, start the process of adoption and provide location based services. 
 
  Pet Projects
  •  Pebble Music Tweeter - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch. [8]
