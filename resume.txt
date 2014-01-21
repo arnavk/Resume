@@ -61,7 +61,7 @@ High School: St. James’ School, Kolkata
 
  Technical Skills
 ==================
- •  Java, Objective-C,  Python (& Django framework), Javascript, HTML and others.
+ •  Java, Objective-C,  Python (& Django framework), Javascript, HTML/CSS and others.
  •  Represented NTU in International Collegiate Programming Competition (ACM-ICPC) Regionals held in Kuala Lumpur (2011).
 
  Relevant Courses
