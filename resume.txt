@@ -53,10 +53,10 @@ High School: St. James’ School, Kolkata
  •  Led a team of 6 to build dBauggle, an iOS word-game for children with special needs, built using the cocos2d framework. [7]
 
  Software Engineering (I) (Feb 2012 - May 2012)
- •  Led a team of 5 to build P.A.W.S., a pet-centric social network (with a Django backend) for pet agencies and prospective pet owners to interact, start the process of adoption and provide location based services. 
+ •  Led a team of 5 to build P.A.W.S., a pet-centric social network (with a Django backend) for pet agencies and prospective pet owners to interact, start the process of adoption and provide location based services. [8]
 
  Pet Projects
- •  Pebble Music Tweeter - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch. [8]
+ •  Pebble Music Tweeter - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch. [9]
  •  Keepr - iOS app for users to keep track of uncommon objects and trigger memory flashes to recall their last placement. (Work in progress)
 
  Technical Skills
@@ -97,4 +97,5 @@ High School: St. James’ School, Kolkata
 [5] Twitter Visualizer (Data-Mining): https://github.com/radzinzki/Data-Mining
 [6] Twitter Summarizer (Natural Language Processing): https://github.com/radzinzki/NLP
 [7] dBauggle: https://itunes.apple.com/us/app/dbauggle!/id625981185?mt=8
+[8] P.A.W.S.: https://www.youtube.com/watch?v=kpMSL7KJ69w
 [8] Pebble Music-Tweeter: https://github.com/radzinzki/Pebble-MusicTweeter
