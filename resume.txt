@@ -58,6 +58,7 @@ High School: St. James’ School, Kolkata
  Pet Projects
  •  Pebble Music Tweeter - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch. [9]
  •  Keepr - iOS app for users to keep track of uncommon objects and trigger memory flashes to recall their last placement. (Work in progress)
+ •  Heal The World - Heal the World - A game to educate people about world issues and a platform to connect them with agencies if they want to volunteer. Built using Meteor.js.[10]
 
  Technical Skills
 ==================
@@ -87,7 +88,6 @@ High School: St. James’ School, Kolkata
  •  Played Rugby competitively for 8 years.
  •  Member of the NTU Rugby Squad between Sept 2010 and Aug 2011.
 
-
  Links
 =======
 [1] GitHub: https://github.com/radzinzki
@@ -98,4 +98,5 @@ High School: St. James’ School, Kolkata
 [6] Twitter Summarizer (Natural Language Processing): https://github.com/radzinzki/NLP
 [7] dBauggle: https://itunes.apple.com/us/app/dbauggle!/id625981185?mt=8
 [8] P.A.W.S.: https://www.youtube.com/watch?v=kpMSL7KJ69w
-[8] Pebble Music-Tweeter: https://github.com/radzinzki/Pebble-MusicTweeter
+[9] Pebble Music-Tweeter: https://github.com/radzinzki/Pebble-MusicTweeter
+[10]Heal the World: https://github.com/spinningarrow/heal-the-world 
