@@ -58,7 +58,7 @@ High School: St. James’ School, Kolkata
  Pet Projects
  •  Pebble Music Tweeter - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch. [9]
  •  Keepr - iOS app for users to keep track of uncommon objects and trigger memory flashes to recall their last placement. (Work in progress)
- •  Heal The World - Heal the World - A game to educate people about world issues and a platform to connect them with agencies if they want to volunteer. Built using Meteor.js.[10][11]
+ •  Heal The World - A game to educate people about world issues and a platform to connect them with agencies if they want to volunteer. Built using Meteor.js.[10][11]
 
  Technical Skills
 ==================
@@ -94,7 +94,7 @@ High School: St. James’ School, Kolkata
 [2]  LinkedIn: http://sg.linkedin.com/in/arnavkumar24/
 [3]  Site: http://arnavkumar.com
 [4]  ISAM-ESSOm: https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8
-[5]  Twitter Visualizer (Data-Mining): https://github.com/radzinzki/Data-Mining
+[5]  Twitter Visualizer (Data-Mining): https://github.com/radzinzki/Twitter-Visualiser
 [6]  Twitter Summarizer (Natural Language Processing): https://github.com/radzinzki/NLP
 [7]  dBauggle: https://itunes.apple.com/us/app/dbauggle!/id625981185?mt=8
 [8]  P.A.W.S.: https://www.youtube.com/watch?v=kpMSL7KJ69w
