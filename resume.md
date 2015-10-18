@@ -1,0 +1,74 @@
+# Education
+
+* University: Nanyang Technological University, Singapore \hfill (Aug 2010 – Jun 2014)
+	- Bachelor of Engineering (Honours) in Computer Science with a GPA of 4.75/5.
+	- Minor in Business, Specialization in Intelligent Systems (expected).
+	- Dean’s List - Academic Year 2012-13
+	- Awarded President’s Research Scholarship - offered to the top 5% of the cohort - Academic Year 2011-12
+	- Awarded full scholarship for university education.
+
+* High School: St. James’ School, Kolkata \hfill (Graduated in May 2010)
+	- Indian School Certification (ISC) - 91%. (A - Level Equivalent)
+	- Indian School Certificate Examination Result (ICSE) - 94%. (O - Level Equivalent)
+	- 98% in Computer Science in both ICSE and ISC.
+
+# Employment History
+
+* IBM Corporation - Software Engineering (iOS) Intern \hfill (May 2013 - Aug 2013)
+	- Developed core components for a mobile port of IBM Security Access Manager for Enterprise Single Sign - On [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8) for providing single sign - on capabilities on the iOS platform.
+	- Built  the  fully-featured,  UIWebView  -  based  embedded  browser  which  provides Web single sign - on capabilities within the App.
+
+* IBM Corporation - Software Engineering Intern \hfill (Jun 2012 - Dec 2012)
+	- Development – Prototyped new mobile (iOS and Android) solutions aimed at enhancing user  experience  and  security  of  sensitive  user  information.  Explored  and  implemented methods of automated form - filling techniques.
+	- Quality Assurance – Configuration and troubleshooting server side components of a new solution for Privileged Identity Management. Automated the user-creation process during load-testing, reducing time required at this stage by 66%.
+
+# Project Work
+
+* Final Year Project \hfill (Aug 2013 - Present)
+	- Developing a proof-of-concept game demonstrating interaction with real world objects virtually.
+	- Interfacing a Kinect, an iPhone, and a projector with a central server to process motion.
+
+* [Twitter Visualizer](https://github.com/radzinzki/Twitter-Visualiser) - Data Mining \hfill (Aug 2013 - Oct 2013)
+	- Led a team of 6 to develop an application (with a Django backend) to generate a timeline for the flow of Twitter hashtags across the globe and track local trends.
+
+* [Twitter Summarizer](https://github.com/radzinzki/NLP) - Natural Language Processing \hfill (Aug 2013 - Oct 2013)
+	- Developed an application (with a Java + Flask backend) to summarize and analyse the sentiment of Twitter users about a subjects after extracting descriptive phrases from related tweets.
+
+* [dBauggle](https://itunes.apple.com/us/app/dbauggle!/id625981185?mt=8) - Software Engineering (II) \hfill (Jan 2013 - May 2013)
+	- Led a team of 6 to build dBauggle, an iOS word-game for children with special needs, built using the cocos2d framework.
+
+* [P.A.W.S.](https://www.youtube.com/watch?v=kpMSL7KJ69w) - Software Engineering (I) \hfill (Feb 2012 - May 2012)
+	- Led a team of 5 to build P.A.W.S., a pet-centric social network (with a Django backend) for pet agencies and prospective pet owners to interact, start the process of adoption and provide location based services. [8]
+
+* Pet Projects
+	- [Pebble Music Tweeter](https://github.com/radzinzki/Pebble-MusicTweeter) - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch. [9]
+	- Keepr - iOS app for users to keep track of uncommon objects and trigger memory flashes to recall their last placement. (Work in progress)
+	- [Heal The World](http://healtheworld.meteor.com/) - A game to educate people about world issues and a platform to connect them with agencies if they want to volunteer. Built using Meteor.js.
+
+# Technical Skills
+
+- Java, Objective-C, Python (& Django framework), Javascript, HTML/CSS and others.
+- Represented NTU in International Collegiate Programming Competition (ACM-ICPC) Regionals held in Kuala Lumpur (2011).
+
+# Relevant Courses
+
+- Object  Oriented  Programming  &  Data  Structures
+- Software  Engineering
+- Database Systems
+- Operating  Systems
+- Algorithms
+- Advanced  Algorithms
+- Artificial  Intelligence
+- Natural Language Processing
+- Data Mining.
+
+# Extra - Curricular Activities
+
+- President - NTU Open Source Society - Headed the management committee of the special interest club that promotes the hacker culture.  (AY2012-13)
+- IT (Media) Officer - Computer Engineering Club (Student Council of the School) - Steered the  annual  branding  initiative,  produced  and  redesigned  the  School’s  publication  and organised the school’s first Hackathon. (AY2012-13)
+
+# Interests
+
+- Reading, Writing, Sports (football, rugby).
+- Played Rugby competitively for 8 years.
+- Member of the NTU Rugby Squad between Sept 2010 and Aug 2011.
