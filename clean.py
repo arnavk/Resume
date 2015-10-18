@@ -12,3 +12,4 @@ for line in lines:
 
 open('resume.tex', 'w').write(("\n".join(result)))
 
+# pandoc resume.md -o resume.tex --template=foo.tex; python clean.py;
