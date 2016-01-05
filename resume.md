@@ -2,7 +2,7 @@
 
 * University: **Nanyang Technological University**, Singapore \hfill (Aug 2010 – Jun 2014)
 	- Bachelor of Engineering (Honours) in Computer Science with a GPA of **4.78/5**.
-	- Minor in Business, Specialization in Intelligent Systems.
+	- Specialization in Intelligent Systems, Minor in Business.
 	- **Dean’s List** - Academic Year 2012-13, Academic Year 2013-14
 	- Awarded President’s Research Scholarship - offered to the top 5% of the cohort - Academic Year 2011-12
 	- Awarded full scholarship for university education.
