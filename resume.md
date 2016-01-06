@@ -13,10 +13,10 @@
 
 * **Zendesk, Inc.** - *Software Engineer, Zopim Live Chat (Backend/Platform)*, Singapore \hfill (Jul 2014 - Present)
 	- *[Public Rest API](https://developer.zendesk.com/rest_api/docs/zopim/introduction)* - Worked on v1.0 of the public API. This involved opening up a subset of the internal API for public consumtion. Developed a view transformation layer to transform internal objects before returning publicly, an internal structure for authorization checks, and adding/modifying various endpoints as required.
-	- *Webhooks* - Worked on v1 of the internal Webhooks project. Developed the delivery/retry mechanism for payload delivery.
+	- *Webhooks* - Built on v1.0 of the internal Webhooks project. Developed delivery/retry mechanism for payload delivery.
 	- *Entitlement Microservice* - Built a microservice for feature entitlement, gating and staggered rollout.
-	- Developed a object oriented ORM like data-access layer with *Redis Cluster* as a backing store.
-	- Miscellanous Responsibilites - Development environments, staging servers, continuous integration, etc. \
+	- Developed an ORM-like data-access layer with *Redis Cluster* as a backing store.
+	- *Miscellanous Responsibilites* - Development environments, staging servers, continuous integration, etc. \
 	_Technologies Used_ - Python, Django, Flask, Celery, Nose, JavaScript, Node, Redis & Redis Cluster, MySQL, Docker, etc.
 
 * **IBM Corporation** - *Software Engineering (iOS) Intern*, Singapore \hfill (May 2013 - Aug 2013)
@@ -24,7 +24,7 @@
 	- Built the fully-featured, UIWebView-based embedded browser which provides Web single sign-on capabilities.
 
 * **IBM Corporation** - *Software Engineering Intern*, Singapore \hfill (Jun 2012 - Dec 2012)
-	- Development – Prototyped new mobile (iOS) solutions aimed at enhancing user experience and security of sensitive user information. Explored and implemented methods of automated form - filling techniques. This project evolved into [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8).
+	- Development – Prototyped mobile (iOS) solutions aimed at enhancing user experience and security of sensitive user information. Resarched and implemented automated form-filling techniques. This evolved into [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8).
 	- QA – Configuration and troubleshooting server side components of a new solution for Privileged Identity Management. Automated the user-creation process during load-testing, reducing time required by 66%.
 
 # Projects
@@ -45,7 +45,7 @@
 * [**dBauggle**](https://itunes.apple.com/us/app/dbauggle!/id625981185?mt=8) - *Software Engineering* - (iOS) \hfill (Jan 2013 - May 2013)
 	- Led a team of 6 to build dBauggle, an iOS word-game for children with special needs, built with cocos2d.
 
-* Pet Projects
+* Selected Pet Projects
 	- [**Pebble Music Tweeter**](https://github.com/radzinzki/Pebble-MusicTweeter) - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch.
 	- [**Heal The World**](http://healtheworld.meteor.com/) - A game to educate people about world issues and a platform to connect them with agencies if they want to volunteer. Built using Meteor.js.
 
