@@ -27,27 +27,23 @@
 	- Development – Prototyped mobile (iOS) solutions aimed at enhancing user experience and security of sensitive user information. Resarched and implemented automated form-filling techniques. This evolved into [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8).
 	- QA – Configuration and troubleshooting server side components of a new solution for Privileged Identity Management. Automated the user-creation process during load-testing, reducing time required by 66%.
 
-# Projects
+# Other Projects
 
-* [**TwitterCLDR**](https://github.com/twitter/twitter-cldr-js) (Open-Source) (CoffeeScript, JavaScript, Ruby)\hfill (Jun 2014 - Present)
-	- Regular contributor to Twitter’s open source JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more. Implemented features such as Text Segmentation, Unicode Regex Parser, Rule-based number formatting etc.
+* [**TwitterCLDR**](https://github.com/twitter/twitter-cldr-js) - *Open-Source* - Regular contributor to Twitter’s open source JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more. Implemented features such as Text Segmentation, Unicode Regex Parser, Rule-based number formatting etc.
 
-* **Virtual Interaction with Physical Objects Using Kinect and iPhone** - *Final Year Project* \hfill (Aug 2013 - Apr 2014)
-	- Developed a proof-of-concept game demonstrating interaction with real world objects virtually.
-	- Interfacing a Kinect, an iPhone, and a projector with a central server to process motion.
+* **Virtual Interaction with Physical Objects Using Kinect and iPhone** - *Final Year Project* - Interfacing a Kinect, an iPhone, and a projector with a central server to process motion to demonstrate virtual interaction with real objects.
 
-* [**Twitter Visualizer**](https://github.com/radzinzki/Twitter-Visualiser) - *Data Mining* - (Python/Django) \hfill (Aug 2013 - Oct 2013)
-	- Led a team of 6 to develop an app to generate a timeline for the worldwide flow of hashtags and track local trends.
+* [**Facebook Search**](https://github.com/radzinzki/FacebookSearch) - *Information Retrieval* - [App](http://facebook-search.herokuapp.com/) to perform full text search on a user's post history.
 
-* [**Twitter Summarizer**](https://github.com/radzinzki/NLP) - *Natural Language Processing* - (Java/Python) \hfill (Aug 2013 - Oct 2013)
-	- Developed an application to summarize and analyse the sentiment of Twitter users about subjects after extracting descriptive phrases from tweets.
+* [**Twitter Visualizer**](https://github.com/radzinzki/Twitter-Visualiser) - *Data Mining* - App to generate a timeline for the worldwide flow of hashtags and track local trends.
 
-* [**dBauggle**](https://itunes.apple.com/us/app/dbauggle!/id625981185?mt=8) - *Software Engineering* - (iOS) \hfill (Jan 2013 - May 2013)
-	- Led a team of 6 to build dBauggle, an iOS word-game for children with special needs, built with cocos2d.
+* [**Twitter Summarizer**](https://github.com/radzinzki/NLP) - *NLP* - An app to summarise information on a topic by extracting descriptive phrases from tweets.
 
-* Selected Pet Projects
-	- [**Pebble Music Tweeter**](https://github.com/radzinzki/Pebble-MusicTweeter) - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch.
-	- [**Heal The World**](http://healtheworld.meteor.com/) - A game to educate people about world issues and a platform to connect them with agencies if they want to volunteer. Built using Meteor.js.
+* [**dBauggle**](https://itunes.apple.com/us/app/dbauggle!/id625981185?mt=8) - *Software Engineering* - iOS word-game for children with special needs, built with cocos2d.
+
+* [**Pebble Music Tweeter**](https://github.com/radzinzki/Pebble-MusicTweeter) - *Hobby* - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch.
+
+* [**Heal The World**](http://healtheworld.meteor.com/) - *Hobby* - A game to educate people about world issues and a platform to connect them with agencies if they want to volunteer. Built using Meteor.js.
 
 # Technical Skills
 
@@ -68,6 +64,6 @@
 
 # Interests
 
-- Reading, Writing, Podcasts, Music, Sports (football, rugby).
+- Reading, Writing, Podcasts, Music, Sports (football, rugby, cricket).
 - Played Rugby competitively for 8 years.
 - Member of the NTU Rugby Squad (Sept 2010 - Aug 2011).
