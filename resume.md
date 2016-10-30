@@ -11,21 +11,24 @@
 
 # Employment History
 
-* **Zendesk, Inc.** - *Software Engineer, Zopim Live Chat (Backend/Platform)*, Singapore \hfill (Jul 2014 - Present)
-	- *[Public Rest API](https://developer.zendesk.com/rest_api/docs/zopim/introduction)* - Worked on v1.0 of the public API. This involved opening up a subset of the internal API for public consumtion. Developed a view transformation layer to transform internal objects before returning publicly, an internal structure for authorization checks, and adding/modifying various endpoints as required.
-	- *Webhooks* - Built on v1.0 of the internal Webhooks project. Developed delivery/retry mechanism for payload delivery.
+* **Zendesk, Inc.** - *Senior Software Engineer, Zendesk Chat (Backend/Platform)*, Singapore \hfill (Jul 2014 - Present)
+	- *[Public Rest API](https://developer.zendesk.com/rest_api/docs/chat/introduction)* - Worked on v1.0 of the Zendesk Chat public REST API.
+		- Developed a view transformation layer to transform internal data models into publicly consumable data,
+		- Developed internal structure for authorization checks
+	- *Live Chat Servers* - Worked on various iterations of the application that powers live chat, working on features like REST API for ongoing chats, support for concurrent sessions, lowlevel protocol changes etc.
+	- *Webhooks* - Developed delivery and retry mechanism for payload delivery.
 	- *Entitlement Microservice* - Built a microservice for feature entitlement, gating and staggered rollout.
 	- Developed an ORM-like data-access layer with *Redis Cluster* as a backing store.
+	- *Test Framework* - Made several improvements to the unit test suite, improving coverage and reducing suite runtimes
 	- *Miscellanous Responsibilites* - Development environments, staging servers, continuous integration, etc. \
-	_Technologies Used_ - Python, Django, Flask, Celery, Nose, JavaScript, Node, Redis & Redis Cluster, MySQL, Docker, etc.
+	_Technologies Used_ - Python, Django, Flask, Celery, Nose, JavaScript, Node, Redis & Redis Cluster, Kafka, MySQL, Docker, etc.
 
 * **IBM Corporation** - *Software Engineering (iOS) Intern*, Singapore \hfill (May 2013 - Aug 2013)
 	- Developed core components for a mobile port of IBM Security Access Manager for Enterprise Single Sign-On, [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8), for providing single sign-on capabilities on the iOS platform.
 	- Built the fully-featured, UIWebView-based embedded browser which provides Web single sign-on capabilities.
 
 * **IBM Corporation** - *Software Engineering Intern*, Singapore \hfill (Jun 2012 - Dec 2012)
-	- Development – Prototyped mobile (iOS) solutions aimed at enhancing user experience and security of sensitive user information. Resarched and implemented automated form-filling techniques. This evolved into [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8).
-	- QA – Configuration and troubleshooting server side components of a new solution for Privileged Identity Management. Automated the user-creation process during load-testing, reducing time required by 66%.
+	- Development – Prototyped mobile (iOS) solutions aimed at enhancing user experience and security of sensitive user information. Resarched and implemented automated form-filling techniques. This evolved into [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8)
 
 # Other Projects
 
@@ -33,17 +36,15 @@
 
 * **Virtual Interaction with Physical Objects Using Kinect and iPhone** - *Final Year Project* - Interfacing a Kinect, an iPhone, and a projector with a central server to process motion to demonstrate virtual interaction with real objects.
 
-* [**Facebook Search**](https://github.com/radzinzki/FacebookSearch) - *Information Retrieval* - [App](http://facebook-search.herokuapp.com/) to perform full text search on a user's post history.
+* [**Facebook Search**](https://github.com/arnavk/FacebookSearch) - *Information Retrieval* - [App](http://facebook-search.herokuapp.com/) to perform full text search on a user's post history.
 
-* [**Twitter Visualizer**](https://github.com/radzinzki/Twitter-Visualiser) - *Data Mining* - App to generate a timeline for the worldwide flow of hashtags and track local trends.
+* [**Twitter Visualizer**](https://github.com/arnavk/Twitter-Visualiser) - *Data Mining* - App to generate a timeline for the worldwide flow of hashtags and track local trends.
 
-* [**Twitter Summarizer**](https://github.com/radzinzki/NLP) - *NLP* - An app to summarise information on a topic by extracting descriptive phrases from tweets.
+* [**Twitter Summarizer**](https://github.com/arnavk/NLP) - *NLP* - An app to summarise information on a topic by extracting descriptive phrases from tweets.
 
 * [**dBauggle**](https://itunes.apple.com/us/app/dbauggle!/id625981185?mt=8) - *Software Engineering* - iOS word-game for children with special needs, built with cocos2d.
 
-* [**Pebble Music Tweeter**](https://github.com/radzinzki/Pebble-MusicTweeter) - *Hobby* - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch.
-
-* [**Heal The World**](http://healtheworld.meteor.com/) - *Hobby* - A game to educate people about world issues and a platform to connect them with agencies if they want to volunteer. Built using Meteor.js.
+* [**Pebble Music Tweeter**](https://github.com/arnavk/Pebble-MusicTweeter) - *Hobby* - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch.
 
 # Technical Skills
 
