@@ -1,0 +1,70 @@
+# Education
+
+* University: **Nanyang Technological University**, Singapore \hfill (Aug 2010 – Jun 2014)
+	- Bachelor of Engineering (Honours) in Computer Science with a GPA of **4.78/5**.
+	- Specialization in Intelligent Systems, Minor in Business.
+	- **Dean’s List** - Academic Year 2012-13, Academic Year 2013-14
+	- Awarded President’s Research Scholarship - offered to the top 5% of the cohort - Academic Year 2011-12
+	- Awarded full scholarship for university education.
+
+* High School: **St. James’ School**, Kolkata, India \hfill (Graduated in May 2010)
+
+# Employment History
+
+* **Zendesk, Inc.** - *Senior Software Engineer, Zendesk Chat (Backend/Platform)*, Singapore \hfill (Jul 2014 - Present)
+	- *[Public Rest API](https://developer.zendesk.com/rest_api/docs/chat/introduction)* - Worked on v1.0 of the Zendesk Chat public REST API.
+		- Developed a view transformation layer to transform internal data models into publicly consumable data,
+		- Developed internal structure for authorization checks
+	- *Live Chat Servers* - Worked on various iterations of the application that powers live chat, working on features like REST API for ongoing chats, support for concurrent sessions, lowlevel protocol changes etc.
+	- *Webhooks* - Developed delivery and retry mechanism for payload delivery.
+	- *Entitlement Microservice* - Built a microservice for feature entitlement, gating and staggered rollout.
+	- Developed an ORM-like data-access layer with *Redis Cluster* as a backing store.
+	- *Test Framework* - Made several improvements to the unit test suite, improving coverage and reducing suite runtimes
+	- *Miscellanous Responsibilites* - Development environments, staging servers, continuous integration, etc. \
+	_Technologies Used_ - Python, Django, Flask, Celery, Nose, JavaScript, Node, Redis & Redis Cluster, Kafka, MySQL, Docker, etc.
+
+* **IBM Corporation** - *Software Engineering (iOS) Intern*, Singapore \hfill (May 2013 - Aug 2013)
+	- Developed core components for a mobile port of IBM Security Access Manager for Enterprise Single Sign-On, [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8), for providing single sign-on capabilities on the iOS platform.
+	- Built the fully-featured, UIWebView-based embedded browser which provides Web single sign-on capabilities.
+
+* **IBM Corporation** - *Software Engineering Intern*, Singapore \hfill (Jun 2012 - Dec 2012)
+	- Development – Prototyped mobile (iOS) solutions aimed at enhancing user experience and security of sensitive user information. Resarched and implemented automated form-filling techniques. This evolved into [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8)
+
+# Other Projects
+
+* [**TwitterCLDR**](https://github.com/twitter/twitter-cldr-js) - *Open-Source* - Regular contributor to Twitter’s open source JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more. Implemented features such as Text Segmentation, Unicode Regex Parser, Rule-based number formatting etc.
+
+* **Virtual Interaction with Physical Objects Using Kinect and iPhone** - *Final Year Project* - Interfacing a Kinect, an iPhone, and a projector with a central server to process motion to demonstrate virtual interaction with real objects.
+
+* [**Facebook Search**](https://github.com/arnavk/FacebookSearch) - *Information Retrieval* - [App](http://facebook-search.herokuapp.com/) to perform full text search on a user's post history.
+
+* [**Twitter Visualizer**](https://github.com/arnavk/Twitter-Visualiser) - *Data Mining* - App to generate a timeline for the worldwide flow of hashtags and track local trends.
+
+* [**Twitter Summarizer**](https://github.com/arnavk/NLP) - *NLP* - An app to summarise information on a topic by extracting descriptive phrases from tweets.
+
+* [**dBauggle**](https://itunes.apple.com/us/app/dbauggle!/id625981185?mt=8) - *Software Engineering* - iOS word-game for children with special needs, built with cocos2d.
+
+* [**Pebble Music Tweeter**](https://github.com/arnavk/Pebble-MusicTweeter) - *Hobby* - Pebble Watchapp + companion iOS app using the Twitter API and Pebble SDK to Tweet the currently playing music from the smartwatch.
+
+# Technical Skills
+
+- Languages: Python, Javascript, CoffeeScript, Java, Objective-C, and others.
+- Technologies (miscellaneous): Django, Flask, Celery, Nose, Node, Jasmine, Redis, Redis Cluster, MySQL, etc.
+- Represented NTU in International Collegiate Programming Competition (ACM-ICPC) Regionals, Kuala Lumpur (2011).
+
+# Extra-Curricular Activities (University)
+
+* **NTU Open Source Society** \hfill (Aug 2010 - May 2014)
+	- **President** in AY2012-13, **Vice-President** in AY2011-12
+	- Headed the management committee of the  resident hacker-club that hosted weekly workshops, recruitment events and promoted technology on the campus.
+	- Organised various workshops (& presented a few), recruitments events and Ubuntu release parties.
+* **IT & Media Officer - Computer Engineering Club** (**Students’ Council** equivalent) \hfill (Sept 2012 - Aug 2013)
+	- Steered the annual branding initiative, produced and redesigned the School’s publication and organised the school’s first Hackathon. (AY2012-13)
+* **Layout Editor - The Tribune**, Official Campus Newspaper \hfill (Sept 2011 - Aug 2012)
+	- Led a rebranding initiative and major redesign of the newspaper, leading to 2x increase in readership and distribution.
+
+# Interests
+
+- Reading, Writing, Podcasts, Music, Sports (football, rugby, cricket).
+- Played Rugby competitively for 8 years.
+- Member of the NTU Rugby Squad (Sept 2010 - Aug 2011).
