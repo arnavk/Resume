@@ -12,16 +12,17 @@
 # Employment History
 
 * **Zendesk, Inc.** - *Senior Software Engineer, Zendesk Chat (Backend/Platform)*, Singapore \hfill (Jul 2014 - Present)
+	- *Engineering Lead* for the internal **Push-notification microservice**: Re-write session management logic, architected new systems and infrastructure to support robust push notification delivery.
+	- *Engineering Lead* for the internal microservice for **feature entitlement**, gating and staggered rollout.
+	- *Engineering Lead* for **billing integration** with the shared billing service, replacing legacy systems, and mass migrating customers to the new system.
 	- *[Public Rest API](https://developer.zendesk.com/rest_api/docs/chat/introduction)* - Worked on v1.0 of the Zendesk Chat public REST API.
 		- Developed a view transformation layer to transform internal data models into publicly consumable data,
 		- Developed internal structure for authorization checks
 	- *Live Chat Servers* - Worked on various iterations of the application that powers live chat, working on features like REST API for ongoing chats, support for concurrent sessions, lowlevel protocol changes etc.
 	- *Webhooks* - Developed delivery and retry mechanism for payload delivery.
-	- *Entitlement Microservice* - Built a microservice for feature entitlement, gating and staggered rollout.
-	- Developed an ORM-like data-access layer with *Redis Cluster* as a backing store.
-	- *Test Framework* - Made several improvements to the unit test suite, improving coverage and reducing suite runtimes
-	- *Miscellanous Responsibilites* - Development environments, staging servers, continuous integration, etc. \
-	_Technologies Used_ - Python, Django, Flask, Celery, Nose, JavaScript, Node, Redis & Redis Cluster, Kafka, MySQL, Docker, etc.
+	- *Test Framework* - Made several improvements to the unit test suite: improvements to the test suite lifecycle, increased coverage and reduced suite runtimes with micro-optimizations.
+	- *Miscellanous Responsibilites* - Development environments, staging servers, continuous integration, interviews, new-hire orientation, etc. \
+	_Technologies Used_ - Python, Django, Flask, Celery, Nose, JavaScript, Node, Redis & Redis Cluster, Kafka, Logstash, MySQL, Docker, etc.
 
 * **IBM Corporation** - *Software Engineering (iOS) Intern*, Singapore \hfill (May 2013 - Aug 2013)
 	- Developed core components for a mobile port of IBM Security Access Manager for Enterprise Single Sign-On, [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8), for providing single sign-on capabilities on the iOS platform.
@@ -49,7 +50,7 @@
 # Technical Skills
 
 - Languages: Python, Javascript, CoffeeScript, Java, Objective-C, and others.
-- Technologies (miscellaneous): Django, Flask, Celery, Nose, Node, Jasmine, Redis, Redis Cluster, MySQL, etc.
+- Technologies (miscellaneous): Django, Flask, Celery, Nose, Node, Jasmine, Redis, Redis Cluster, MySQL, Kafka, Docker, Logstash etc.
 - Represented NTU in International Collegiate Programming Competition (ACM-ICPC) Regionals, Kuala Lumpur (2011).
 
 # Extra-Curricular Activities (University)
