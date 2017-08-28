@@ -1,6 +1,6 @@
 # Education
 
-* Graduate: **Carnegie Mellon University**, Pittsburgh, PA --- (Aug 2017 - Present)
+* Graduate: **Carnegie Mellon University**, Pittsburgh, PA --- (Aug 2017 - Dec 2018 (Expected))
 	- Master of Science in Intelligent Information Systems
 
 * Undergraduate: **Nanyang Technological University**, Singapore --- (Aug 2010 – Jun 2014)
@@ -25,7 +25,7 @@
 	- *Live Chat Servers* - Worked on various iterations of the application that powers live chat, working on features like REST API for ongoing chats, support for concurrent sessions, low-level protocol enhancements etc.
 	- *Event Framework* - Wrote the event framework that produces product-wide events to Kafka. Some were piped via a pool of Logstash servers depending on importance and volume.
 	- *Webhooks* - Developed delivery and retry mechanism for payload delivery.
-	- *Test Framework* - Made several improvements to the unit test suite: improvements to the test suite lifecycle, increased coverage and heavily reduced suite runtimes with micro-optimizations.
+	- *Test Framework* - Made several improvements to the unit test suite: improvements to the test suite lifecycle, increased coverage and heavily reduced suite run-times with micro-optimizations.
 	- *Miscellanous Responsibilites* - Development environments, staging servers, CI setup, hiring, mentoring, etc. \
 	_Technologies Used_ - Python, Django, Flask, Celery, Nose, JavaScript, Node, Redis & Redis Cluster, Memcached, Kafka, Logstash, MySQL, Docker, etc.
 
@@ -38,7 +38,7 @@
 # Open Source Contributions (Selected)
 
 * [**TwitterCLDR**](https://github.com/twitter/twitter-cldr-js) - Regular contributor to Twitter’s open source JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more. Implemented features such as Text Segmentation, Unicode Regex Parser, Rule-based number formatting etc.
-* [**raven-python**](https://github.com/getsentry/raven-python) - Added support for capture-sampling per message. Added support for logging filters, and exclusions when used with Flask.
+* [**raven-python**](https://github.com/getsentry/raven-python) - Added support for capture-sampling per message. Added support for logging filters, and logging exclusions when used with Flask.
 * [**txconnpool**](https://github.com/zopim/txconnpool) - Added support to create a connection pool to a pool of servers rather than just 1.
 * [**blinker**](https://github.com/zopim/blinker) - Added support for sending signals without propagating resulting exceptions and support for connecting via multiple objects in a single decorator.
 

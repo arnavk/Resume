@@ -45,9 +45,15 @@
 \usepackage[compact]{titlesec} \titlespacing*{\section}{0pt}{*2}{5pt}
 \titleformat{\section}
   {\normalfont\fontsize{14}{15}\bfseries}{\thesection}{1em}{}[{\titlerule[2pt]}]
-\fontfamily{mdugm}\selectfont
 \usepackage{titling}
 \newfontfamily\titlefont{Impact}
+
+% Copied from here:
+% https://tex.stackexchange.com/questions/368367/adjustbox-with-xelatex-misplaces-hyperlinks
+\makeatletter
+\def\Gscale@start{%
+  \special{x:gsave}\special{x:scale \Gscale@x\space\Gscale@y}}
+\makeatletter
 
 % underline coloring only instead of a box
 \usepackage[hidelinks]{hyperref}
@@ -79,14 +85,14 @@
     }
   }
 &
-\faMobilePhone {} +1 347 277 6077 \textbullet{}
-\faEnvelope {} arnavkumar24@gmail.com \textbullet{}
-\faGithub{ }\href{https://github.com/arnavk}{arnavk}
+\faMobilePhone { }+1 347 277 6077 \textbullet{}
+\faEnvelope { }arnavkumar24@gmail.com \textbullet{}
+\faGithub { }\href{https://github.com/arnavk}{arnavk}
 \\
 &
-\faExternalLink{ }\href{http://arnavkumar.com}{arnavkumar.com} \textbullet{}
-\faLinkedin{ }\href{http://sg.linkedin.com/in/arnavkumar24/}{arnavkumar24} \textbullet{}
-\faTwitter{ }\href{http://twitter.com/\_arnavkumar}{@\_arnavkumar}
+\faExternalLink { }\href{http://arnavkumar.com}{arnavkumar.com} \textbullet{}
+\faLinkedin { }\href{http://sg.linkedin.com/in/arnavkumar24/}{arnavkumar24} \textbullet{}
+\faTwitter { }\href{http://twitter.com/\_arnavkumar}{@\_arnavkumar}
 \\
 \end{tabular}
 \end{adjustbox}
