@@ -60,7 +60,7 @@
 
 - Languages: Comptetent: Python. Previously used: Javascript, CoffeeScript, Java, Objective-C, and others.
 - Technologies (miscellaneous): Django, Flask, Celery, Nose, Node, Jasmine, Redis, Redis Cluster, Memcached, MySQL, Kafka, Docker, Logstash etc.
-- Represented NTU in International Collegiate Programming Competition (ACM-ICPC) Regionals, Kuala Lumpur (2011).
+- Represented NTU in International Collegiate Programming Competition (ACM-ICPC) Regionals, Kuala Lumpur. --- (2011)
 
 # Extra-Curricular Activities (University)
 
