@@ -21,7 +21,7 @@
 	- Wrote the event framework that produces product-wide events to Kafka. Some were piped via a pool of Logstash servers depending on importance and volume.
 	- For an internal webhooks project, developed attempt and retry mechanism for payload delivery.
 	- Made several improvements to the unit test suite: improvements to the test suite lifecycle, increased coverage and heavily reduced suite run-times with micro-optimizations.
-	- *Miscellanous Responsibilites* - Development environments, staging servers, CI setup, hiring, mentoring, etc. \
+	- *Miscellanous Responsibilites* - Hiring; mentoring; maintenance of dev environments, staging servers & CI setup. \
 	_Technologies Used_ - Python, Django, Flask, Celery, Nose, JavaScript, Node, Redis & Redis Cluster, Memcached, Kafka, Logstash, MySQL, Docker, etc.
 
 * **IBM Corporation** - *Software Engineering Intern*, Singapore --- (May 2013 - Aug 2013)
@@ -66,4 +66,3 @@
 
 - **Dean’s List** - Academic Year 2012-13, Academic Year 2013-14
 - Awarded President’s Research Scholarship - offered to the top 5% of the cohort - Academic Year 2011-12
-- Awarded full scholarship for university education.
