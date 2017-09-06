@@ -3,7 +3,7 @@
 * **Carnegie Mellon University**, School of Computer Science --- Pittsburgh, PA
 	- Master of Science in Intelligent Information Systems --- (Aug 2017 - Dec 2018)
 
-* **Nanyang Technological University** --- Singapore
+* **Nanyang Technological University**, School of Computer Science and Engineering --- Singapore
 	- Bachelor of Engineering (Honours) in Computer Science with a GPA of **4.78/5**. --- (Aug 2010 – Jun 2014)
 	- Specialization in Intelligent Systems, Minor in Business.
 
