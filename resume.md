@@ -2,6 +2,7 @@
 
 * **Carnegie Mellon University**, School of Computer Science --- Pittsburgh, PA
 	- Master of Science in Intelligent Information Systems --- (Aug 2017 - Dec 2018)
+	- Specializing in Information Retrieval (Knowledge Acceleration Interfaces with [Dr. Jamie Callan](http://www.cs.cmu.edu/~callan/))
 
 * **Nanyang Technological University**, School of Computer Science and Engineering --- Singapore
 	- Bachelor of Engineering (Honours) in Computer Science with a GPA of **4.78/5**. --- (Aug 2010 – Jun 2014)
@@ -32,14 +33,14 @@
 # Open Source Contributions (Selected)
 
 * [**TwitterCLDR**](https://github.com/twitter/twitter-cldr-js) - Regular contributor to Twitter’s open source JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more. Implemented features such as Text Segmentation, Unicode Regex Parser, Rule-based number formatting etc.
-* [**raven-python**](https://github.com/getsentry/raven-python) - Added support for capture-sampling per message. Added support for logging filters, and logging exclusions when used with Flask.
+* [**raven-python**](https://github.com/getsentry/raven-python) - Added per message capture-sampling and support for logging filters and exclusions for Flask.
 * [**txconnpool**](https://github.com/zopim/txconnpool) - Added support to create a connection pool to a pool of servers rather than just 1.
 * [**blinker**](https://github.com/zopim/blinker) - Added support for sending signals without propagating resulting exceptions and support for connecting via multiple objects in a single decorator.
 
 # Technical Skills
 
 - Languages: Comptetent: Python. Familiar: Javascript, CoffeeScript, Java, Objective-C, and others.
-- Technologies (miscellaneous): Django, Flask, Celery, Nose, Node, Jasmine, Redis, Redis Cluster, Memcached, MySQL, Kafka, Docker, Logstash etc.
+- Technologies (misc.): Django, Flask, Celery, Nose, Node, Jasmine, Redis, Redis Cluster, Memcached, MySQL, Kafka, Docker, Logstash, Unix etc.
 
 # Other Projects (Selected)
 
