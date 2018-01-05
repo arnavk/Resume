@@ -2,25 +2,25 @@
 
 * **Carnegie Mellon University**, School of Computer Science --- Pittsburgh, PA
 	- Master of Science in Intelligent Information Systems --- (Aug 2017 - Dec 2018)
-	- Specializing in Information Retrieval (Knowledge Acceleration Interfaces with [Dr. Jamie Callan](http://www.cs.cmu.edu/~callan/))
+	- Specializing in Information Retrieval (Project: Knowledge Acceleration Interfaces with [Dr. Jamie Callan](http://www.cs.cmu.edu/~callan/))
+	- Developing skills in Machine Learning and Natural Language Processing
 
 * **Nanyang Technological University**, School of Computer Science and Engineering --- Singapore
-	- Bachelor of Engineering (Honours) in Computer Science with a GPA of **4.78/5**. --- (Aug 2010 – Jun 2014)
+	- Bachelor of Engineering (First Class Honours) in Computer Science. --- (Aug 2010 – Jun 2014)
 	- Specialization in Intelligent Systems, Minor in Business.
 
 # Professional Experience
 
 * **Zendesk, Inc.** - *Senior Software Engineer, Zendesk Chat (Backend/Platform)*, Singapore --- (Jul 2016 - Aug 2017)
 * **Zendesk, Inc.** - *Software Engineer, Zendesk Chat (Backend/Platform)*, Singapore --- (Jul 2014 - Jul 2016)
-	- As Engineering Lead for the internal push-notification microservice project, re-wrote session management logic, architected new systems and infrastructure to support robust push notification delivery.
-	- As Engineering Lead for the internal microservice for feature entitlement, designed the underlying rule-engine, architected and led development for the service, serving ~10k RPS at peak.
+	- As *Engineering Lead* for the internal **push-notification microservice** project, re-wrote session management logic, architected new systems and infrastructure to support robust push notification delivery.
+	- As *Engineering Lead* for the internal microservice for **feature entitlement**, designed the underlying rule-engine, architected and led development for the service, serving ~10k RPS at peak.
 	- *[Public Rest API](https://developer.zendesk.com/rest_api/docs/chat/introduction)* - Worked on v1.0 of the Zendesk Chat public REST API.
 		- Wrote the view transformation layer to transform internal data models into publicly consumable data,
 		- Developed internal structure for authorization checks
 	- Worked on various iterations of the application that powers live chat, working on features like REST API for ongoing chats, support for concurrent sessions, low-level protocol enhancements etc.
 	- Replaced legacy billing system by integrating with the shared Zendesk-wide billing service, followed by writing mechanisms to migrate existing customers to it en masse.
-	- Wrote the event framework that produces product-wide events to Kafka. Some were piped via a pool of Logstash servers depending on importance and volume.
-	- For an internal webhooks project, developed attempt and retry mechanism for payload delivery.
+	- Wrote the **event framework** that produces product-wide events to Kafka. Some were piped via a pool of Logstash servers depending on importance and volume.
 	- Made several improvements to the unit test suite: improvements to the test suite lifecycle, increased coverage and heavily reduced suite run-times with micro-optimizations.
 	- *Miscellanous Responsibilites* - Hiring; mentoring; maintenance of dev environments, staging servers & CI setup. \
 	_Technologies Used_ - Python, Django, Flask, Celery, Nose, JavaScript, Node, Redis & Redis Cluster, Memcached, Kafka, Logstash, MySQL, Docker, etc.
@@ -65,5 +65,6 @@
 
 # Awards
 
-- **Dean’s List** - Academic Year 2012-13, Academic Year 2013-14
+- **Dean’s List** - Academic Year 2013-14
+- **Dean’s List** - Academic Year 2012-13
 - Awarded President’s Research Scholarship - offered to the top 5% of the cohort - Academic Year 2011-12
