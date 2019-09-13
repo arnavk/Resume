@@ -1,10 +1,10 @@
 # Education
 
-* **Carnegie Mellon University**, School of Computer Science --- Pittsburgh, PA
-	- Master of Science in Intelligent Information Systems --- (Aug 2017 - Dec 2018)
-	- Specializing in Information Retrieval (Project: Knowledge Acceleration with [Dr. Jamie Callan](http://www.cs.cmu.edu/~callan/))
-		+ Discover possible search paths and the concepts discussed therein, based on intial search query results.
-	- Developing skills in Information Retrieval, Machine Learning and Natural Language Processing
+* **Carnegie Mellon University**, Language Technologies Institute, School of Computer Science --- Pittsburgh, PA
+	- Master of Science (Topics: Machine Learning and Information Retrieval) --- (Aug 2017 - Dec 2018)
+	- Project: Conversational Search and Knowledge Acceleration with [Dr. Jamie Callan](http://www.cs.cmu.edu/~callan/)
+		+ Given a non-specific query, discover its subtopics, possible search paths and concepts based on initial search results.
+		+ Support hands-free exploration of a broad subject via the discovered topic-tree on voice assistants.
 
 * **Nanyang Technological University**, School of Computer Science and Engineering --- Singapore
 	- Bachelor of Engineering (First Class Honours) in Computer Science. --- (Aug 2010 – Jun 2014)
@@ -12,13 +12,17 @@
 
 # Professional Experience
 
+* **Google, LLC.** - *Software Engineer, Ads Integrity (Machine Learning Infrastructure)*, Pittsburgh, PA --- (Jan 2019 - Present)
+	- Built pipelines to enable offline model evaluations on past traffic, cutting down total evaluation time to 16%.
+	- Improved model evaluation pipelines with better support for parsing internal hierarchy of classifications.
+
 * **Zendesk, Inc.** - *Senior Software Engineer, Zendesk Chat (Backend/Platform)*, Singapore --- (Jul 2016 - Aug 2017)
 * **Zendesk, Inc.** - *Software Engineer, Zendesk Chat (Backend/Platform)*, Singapore --- (Jul 2014 - Jul 2016)
 	- As *Engineering Lead* for the internal **push-notification microservice** project, re-wrote session management logic, architected new systems and infrastructure to support robust push notification delivery.
-	- As *Engineering Lead* for the internal microservice for **feature entitlement**, designed the underlying rule-engine, architected and led development for the service, serving ~10k RPS at peak.
+	- As *Engineering Lead* for the internal microservice for **feature entitlement**, designed the underlying rule-engine, led development for the service, serving ~20k RPS at peak.
 	- Developed various iterations of the application that powers live chat, working on features like REST API for ongoing chats, support for concurrent sessions, low-level protocol enhancements etc.
 	- Replaced legacy billing system by integrating with the shared Zendesk-wide billing service, followed by writing mechanisms to migrate existing customers to it en masse.
-	- Wrote the **event framework** that produces product-wide events to Kafka. Some were piped via a pool of Logstash servers depending on importance and volume.
+	- Wrote the **event framework** that produces product-wide events to Kafka. Added a system to defer high-volume writes via Logstash.
 	- Made several improvements to the unit test suite: improvements to the test suite lifecycle, increased coverage and heavily reduced suite run-times with micro-optimizations.
 	- *Miscellanous Responsibilites* - Hiring; mentoring; maintenance of dev environments, staging servers & CI setup. \
 	_Technologies Used_ - Python, Django, Flask, Celery, Nose, JavaScript, Node, Redis & Redis Cluster, Memcached, Kafka, Logstash, MySQL, Docker, etc.
@@ -30,7 +34,7 @@
 
 # Open Source Contributions (Selected)
 
-* [**TwitterCLDR**](https://github.com/twitter/twitter-cldr-js) - Regular contributor to Twitter’s open source JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more. Implemented features such as Text Segmentation, Unicode Regex Parser, Rule-based number formatting etc.
+* [**TwitterCLDR**](https://github.com/twitter/twitter-cldr-js) - Added features such as Text Segmentation, Unicode Regex Parser, Rule-based number formatting, etc to Twitter's open source library for tools to work with Unicode in JavaScript.
 * [**raven-python**](https://github.com/getsentry/raven-python) - Added per message capture-sampling and support for logging filters and exclusions for Flask.
 * [**txconnpool**](https://github.com/zopim/txconnpool) - Added support to create a connection pool to a pool of servers rather than just 1.
 * [**blinker**](https://github.com/zopim/blinker) - Added support for sending signals without propagating resulting exceptions and support for connecting via multiple objects in a single decorator.
