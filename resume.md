@@ -1,9 +1,9 @@
 # Education
 
 * **Carnegie Mellon University**, Language Technologies Institute, School of Computer Science --- Pittsburgh, PA
-	- Master of Science (Topics: Machine Learning and Information Retrieval) --- (Aug 2017 - Dec 2018)
+	- Master of Science (Topics: NLP, Machine Learning and Information Retrieval) --- (Aug 2017 - Dec 2018)
 	- Project: Conversational Search and Knowledge Acceleration with [Dr. Jamie Callan](http://www.cs.cmu.edu/~callan/)
-		+ Given a non-specific query, discover its subtopics, possible search paths and concepts based on initial search results.
+		+ Given a broad query, discover its subtopics, possible search paths and concepts based on initial search results.
 		+ Support hands-free exploration of a broad subject via the discovered topic-tree on voice assistants.
 
 * **Nanyang Technological University**, School of Computer Science and Engineering --- Singapore
@@ -44,7 +44,7 @@
 - Languages: Competent: Python. Familiar: Javascript, CoffeeScript, Java, Objective-C, and others.
 - Technologies (misc.): Django, Flask, Celery, Nose, Node, Jasmine, Redis, Redis Cluster, Memcached, MySQL, Kafka, Docker, Logstash, Unix etc.
 
-# Other Projects (Selected)
+<!-- # Other Projects (Selected)
 
 * **Virtual Interaction with Physical Objects Using Kinect and iPhone** - *Final Year Project* - Interfacing a Kinect, an iPhone, and a projector with a central server to process motion to demonstrate virtual interaction with real objects.
 
@@ -69,4 +69,4 @@
 
 - **Dean’s List** - Academic Year 2013-14
 - **Dean’s List** - Academic Year 2012-13
-- Awarded President’s Research Scholarship - offered to the top 5% of the cohort - Academic Year 2011-12
+- Awarded President’s Research Scholarship - offered to the top 5% of the cohort - Academic Year 2011-12 -->
