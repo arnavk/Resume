@@ -13,7 +13,7 @@
 # Professional Experience
 
 * **Google, LLC.** - *Software Engineer, Ads Integrity (Machine Learning Infrastructure)*, Pittsburgh, PA --- (Jan 2019 - Present)
-	- Built pipelines to enable offline model evaluations on past traffic, cutting down total evaluation time to 16%.
+	- Built pipelines to enable offline model evaluations on past traffic, cutting down total evaluation time by 90%.
 	- Improving model development and evaluation pipelines by building a composable tooling suite.
 
 * **Zendesk, Inc.** - *Senior Software Engineer, Zendesk Chat (Backend/Platform)*, Singapore --- (Jul 2016 - Aug 2017)
