@@ -41,7 +41,7 @@
 
 # Technical Skills
 
-- Languages: Competent: Python. Familiar: Javascript, CoffeeScript, Java, Objective-C, and others.
+- Languages: Competent: Python. Familiar: Java, Javascript, CoffeeScript, C++ and others.
 - Technologies (misc.): Django, Flask, Celery, Nose, Node, Jasmine, Redis, Redis Cluster, Memcached, MySQL, Kafka, Docker, Logstash, Unix etc.
 
 <!-- # Other Projects (Selected)
