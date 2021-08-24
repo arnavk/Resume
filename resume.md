@@ -12,12 +12,20 @@
 
 # Professional Experience
 
-* **Google, LLC.** - *Software Engineer, Ads Integrity (Machine Learning Infrastructure)*, Pittsburgh, PA --- (Jan 2019 - Present)
+
+* **Stripe Inc.** - *Software Engineer, Merchant Intelligence*, San Francisco, CA --- (Jan 2020 - Present)
+	- *510 Townsend Street, San Francisco, CA94103*
+	- Building scalable systems to organize data from several internal systems to provide consolidate knowledge to enforce risk goals for Stripe and its partners.
+
+* **Google, LLC.** - *Software Engineer, Ads Integrity (Machine Learning Infrastructure)*, Pittsburgh, PA --- (Jan 2019 - Jan 2020)
+	- *6425 Penn Ave, Pittsburgh, PA15206*
 	- Built pipelines to enable offline model evaluations on past traffic, cutting down total evaluation time by 90%.
-	- Improving model development and evaluation pipelines by building a composable tooling suite.
+	- Improving model development and evaluation pipelines by building a composable tooling suite.\
+	_Technologies Used_: C++, Dremel, Flume, Blaze
 
 * **Zendesk, Inc.** - *Senior Software Engineer, Zendesk Chat (Backend/Platform)*, Singapore --- (Jul 2016 - Aug 2017)
 * **Zendesk, Inc.** - *Software Engineer, Zendesk Chat (Backend/Platform)*, Singapore --- (Jul 2014 - Jul 2016)
+	- *401 Commonwealth Drive Singapore 149598*
 	- As *Engineering Lead* for the internal **push-notification microservice** project, re-wrote session management logic, architected new systems and infrastructure to support robust push notification delivery.
 	- As *Engineering Lead* for the internal microservice for **feature entitlement**, designed the underlying rule-engine, led development for the service, serving ~20k RPS at peak.
 	- Developed various iterations of the application that powers live chat, working on features like REST API for ongoing chats, support for concurrent sessions, low-level protocol enhancements etc.
@@ -29,6 +37,7 @@
 
 * **IBM Corporation** - *Software Engineering Intern*, Singapore --- (May 2013 - Aug 2013)
 * **IBM Corporation** - *Software Engineering Intern*, Singapore --- (Jun 2012 - Dec 2012)
+	- *9 Changi Business Park Central 1, The IBM Place, Singapore 486048*
 	- Built the fully-featured, UIWebView-based embedded browser for a mobile port of IBM Security Access Manager for Enterprise Single Sign-On, [ISAM-ESSOm](https://itunes.apple.com/us/app/isam-essom/id741972716?mt=8), for providing web single sign-on capabilities on the iOS platform.
 
 
